@@ -5,7 +5,6 @@ The script and associated data for my rotation in the Ren lab in the Fall Quarte
 
 The report describing the method used can be seen <a href='https://drive.google.com/file/d/0B6aRfRgg95OGemNGcVU0SDRDaGs/view?usp=sharing'>here </a>.
 The presentation can also be seen <a href='https://drive.google.com/file/d/0B6aRfRgg95OGUjBXa1lMbkpnOEU/view?usp=sharing'> here </a>.
-You don't need to download dropbox to view this file, just close the signup window to view the file.
 
 <b> Update: getBins function addded </b>
 This function allows the user to get the Bin numbers for Domain boundaries in a MATRIX file for a specific stringency level.
